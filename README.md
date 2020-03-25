@@ -9,3 +9,4 @@
 | Project 2        | 100.0/100.0    |
 | Project 3 (PDF)  | 19.4/21.0      |
 | Project 3 (Code) | 22.0/22.0      |
+| Midterm          | 93.25/100      |
